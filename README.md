@@ -10,7 +10,7 @@
 
 ## 何かあれば
 なにかあればディスカッションをオープンしてますので作成してください。
-時々みるようにしときます。<br/>
+時々みるようにしときます（1年に1回とかかも）。<br/>
 [Githubディスカッション](https://github.com/momijiina/momijiina/discussions)
 
 
